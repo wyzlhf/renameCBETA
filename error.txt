@@ -1,0 +1,1 @@
+[WinError 123] 文件名、目录名或卷标语法不正确。: 'D:\\CODE\\PYTHON\\cbeta_epub_2022q4\\T\\T1955.epub' -> 'D:\\CODE\\PYTHON\\cbeta_epub_2022q4\\T\\T1955 , 46 , 2 , 顯密圓通成佛心要集 , 遼 道[厄*殳]集.epub'\n
